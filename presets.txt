@@ -1,0 +1,14 @@
+Pipoca (001):
+Potência - Alta
+Minutos - 2
+Segundos - 52
+
+Lasanha (010):
+Potência - Média
+Minutos - 12
+Segundos - 22
+
+Bife (011):
+Potência - Baixa
+Minutos - 1
+Segundos - 36
